@@ -5,7 +5,7 @@
 ## Usage:
 
 - Go to https://github.com/HaiMengg/aseprite-prebuilt/releases, choose a build and download it
-- Extract to zip
+- Extract the zip file
 - Profit
 
 ## Licenses:
